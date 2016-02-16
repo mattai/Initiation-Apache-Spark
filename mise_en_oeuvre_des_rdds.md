@@ -1,4 +1,4 @@
-# Partie 2 : Mise en oeuvre des RDDs
+﻿# Partie 2 : Mise en oeuvre des RDDs
 
 
 Les RDDs sont une collection d'objets immuables répartis sur plusieurs noeuds d'un cluster. Un RDD est créé à partir d'un source de données ou d'une collection d'objets Scala / Python ou Java.
@@ -7,6 +7,7 @@ Les RDDs sont une collection d'objets immuables répartis sur plusieurs noeuds d
 Les opérations disponibles sur un RDD sont :
 + La création
 + Les transformations
++ NEW MENU
 + L'action
 
 ![](rdd2.png)
